@@ -22,7 +22,7 @@ The current edge release is Korma 0.5.0-RC1 (released Feb 28, 2018). It is not g
 
 ## Docs and Real Usage
 
-*   [http://sqlkorma.com](http://sqlkorma.com)
+*   [http://sqlkorma.xyz](http://sqlkorma.xyz)
 *   [API Docs](http://korma.github.com/Korma/)
 
 To get rid of the ridiculously verbose logging, add the following into src/log4j.xml:
